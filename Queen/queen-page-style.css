@@ -59,7 +59,7 @@ header {
     background-color: rgba(0,0,0, 0.4); 
     margin: auto;
     margin-left: 50vh;
-    height: 95vh;
+    height: 96vh;
     overflow: auto;
     scroll-snap-type: y mandatory;
     scroll-padding-top: 20px;

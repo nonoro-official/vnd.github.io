@@ -58,7 +58,7 @@ header {
     background-color: rgba(0,0,0, 0.4); 
     margin: auto;
     margin-left: 50vh;
-    height: 95vh;
+    height: 96vh;
     overflow-y: auto;
     scroll-snap-type: y mandatory;
     scroll-padding-top: 20px;
@@ -139,7 +139,7 @@ footer {
     left: 0px;
     bottom: 0px;
     width: auto;
-    height: 9vh;
+    height: 4vh;
 }
 .footer-content {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
