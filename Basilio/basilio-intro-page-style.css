@@ -2,7 +2,7 @@ body {
     background-image: url("./char-page-intro-basilio.gif");
     background-position: center;
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-attachment: fixed;
     position: fixed;
     margin: 0;
