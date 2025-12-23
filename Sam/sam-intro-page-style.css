@@ -1,8 +1,9 @@
 body {
-    background-image: url("char-page-intro-sam.gif");
+    background-image: url("./char-page-intro-sam.gif");
     background-position: center;
     background-size: cover;
     background-repeat: repeat;
+    background-attachment: fixed;
     position: fixed;
     margin: 0;
 }

@@ -1,8 +1,9 @@
 body {
-    background-image: url("Home-Images/bg-image.png");
+    background-image: url("./Home-Images/bg-image.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     position: fixed;
     margin: 0;
 }
@@ -57,7 +58,7 @@ header {
     background-color: rgba(0, 0, 0, 0.4);
     margin: auto;
     margin-left: 50vh;
-    height: 92vh;
+    height: 93.19vh;
     overflow-y: auto;
     scroll-snap-type: y mandatory;
     scroll-padding-top: 20px;
