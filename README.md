@@ -11,8 +11,8 @@ This site contains the following:
 - Characters
 - Character Information 
 
-This website was made by me, Noah! @nonoro-official
-Hope you enjoy checking the website!
+This website was made by me, Noah! @nonoro-official 
+Hope you enjoy checking out the website!
 
 NOTES:
 Some content for the character information pages are not complete.
