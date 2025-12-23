@@ -2,7 +2,7 @@ body {
     background-image: url("./char-page-bg-sam.gif");
     background-position: center;
     background-size: cover;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-attachment: fixed;
     position: fixed;
     margin: 0;
